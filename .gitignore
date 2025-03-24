@@ -1,0 +1,11 @@
+.cache/
+__pycache__/
+pretrained/
+.vscode
+.idea
+.DS_Store
+*.wav
+ckpt
+wandb
+venv/
+uploads/
